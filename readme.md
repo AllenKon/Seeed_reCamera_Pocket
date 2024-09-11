@@ -8,6 +8,8 @@
 
 The reCamera Pocket is a portable charging device for reCamera, available in two models, vertical and horizontal.
 
+The STL file for printing is at the URL: https://makerworld.com/zh/models/634900
+
 Picture should be here.
 
 ### Horizontal
@@ -18,3 +20,4 @@ Horizontal compatible with standard version of reCamera.
 ### Vertical
 
 Vertical needs to be replaced with a B2 base plate and replace the retainers on the bottom of the reCamera.
+
